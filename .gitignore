@@ -1,3 +1,6 @@
+# Custom files to ignore
+*.tsv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
