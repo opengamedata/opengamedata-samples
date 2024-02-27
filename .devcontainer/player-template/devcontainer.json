@@ -32,7 +32,7 @@
 		},
 		"codespaces": {
 			"openFiles": [
-				"GAME_NAME/templates/players/TEMPLATE_NAME.ipynb"
+				"templates/players/TEMPLATE_NAME.ipynb"
 			]
 		}
 	}
