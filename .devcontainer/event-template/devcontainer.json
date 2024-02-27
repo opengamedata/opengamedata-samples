@@ -32,7 +32,7 @@
 		},
 		"codespaces": {
 			"openFiles": [
-				"AQUALAB/templates/Aqualab_template_events.ipynb"
+				"AQUALAB/templates/events/Aqualab_template_events.ipynb"
 			]
 		}
 	}
