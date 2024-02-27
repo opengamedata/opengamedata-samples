@@ -32,7 +32,7 @@
 		},
 		"codespaces": {
 			"openFiles": [
-				"GAME_NAME/templates/sessions/TEMPLATE_NAME.ipynb"
+				"AQUALAB/templates/sessions/Aqualab_template_sessions.ipynb"
 			]
 		}
 	}
